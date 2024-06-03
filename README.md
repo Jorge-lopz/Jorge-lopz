@@ -10,7 +10,7 @@
 </div>
 
 🔭 I’m currently studying **DAM** in **CES Juan Pablo II** <br>
-📝 I’m aiming to develop and contribute on original and interesting project <br>
+📝 I’m aiming to develop and contribute on original and interesting projects <br>
 🏆 I'm developing **Helping Hands**, give it a look! <br>
 🌱 I’m currently learning **React Native** <br>
 
