@@ -19,7 +19,7 @@
 
 <br>
 
-**WEB:** <br><br> [![HTML, CSS, JS, TS,Bootstrap, Tailwind, NodeJS](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,nodejs)](https://skillicons.dev) <br><br>
+**WEB:** <br><br> [![HTML, CSS, JS, Bootstrap, Tailwind, NodeJS](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,nodejs)](https://skillicons.dev) <br><br>
 **LANGUAGES:** <br><br> [![Python, Java, Kotlin](https://skillicons.dev/icons?i=python,java,kotlin)](https://skillicons.dev) <br><br>
 **DATABASES:** <br><br> [![MySQL, MongoDB, PostgreSQL](https://skillicons.dev/icons?i=mysql,mongodb,postgresql)](https://skillicons.dev) <br><br>
 **TOOLS:** <br><br> [![Figma, Vercel, Cloudflare, Github](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
