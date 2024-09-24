@@ -32,7 +32,6 @@
     <img height=175 alt="Most Used Languages" src="https://readme-stats-eight-lilac.vercel.app/api/top-langs/?username=Jorge-lopz&layout=compact&theme=dark&bg_color=0d1117&border_color=262b32" />&nbsp;&nbsp;
 </p>
 
-![Snake animation]
-(https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
 
 </div>
