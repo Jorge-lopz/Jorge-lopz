@@ -12,7 +12,7 @@
 🔭 I’m currently studying **DAM** in **CES Juan Pablo II** <br>
 💻 **42 Madrid** Student since September 2024 <br>
 📝 I’m aiming to develop and contribute on original and interesting projects <br>
-🏆 I'm developing **Helping Hands**, give it a look! <br>
+🏆 I'm developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_blank" style="text-decoration: none; color: inherit;">**Helping Hands**</a>, give it a look! <br>
 
 <div align="center">
     
