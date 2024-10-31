@@ -30,7 +30,7 @@
  <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
 </a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
 </a>
