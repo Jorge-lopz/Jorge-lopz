@@ -27,11 +27,7 @@
 
 ## · STATS ·
 
-<a href="https://wakatime.com/@Jorge_lopz" target="_blank">
-     <img src="https://wakatime.com/badge/user/43299b95-37b5-4319-89dd-7bbef7fb1dcb.svg" alt="Wakatime Tracking Total" width="100px" style="position:absolute"/>
-</a>
-
- <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
+<a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
