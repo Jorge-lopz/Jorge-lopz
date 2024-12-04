@@ -37,9 +37,6 @@
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
 </a>
 
-
-
 ![Snake animation](https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
-
 
 </div>
