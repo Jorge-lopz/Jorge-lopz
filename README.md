@@ -36,8 +36,6 @@
 </a>
 
 <p>
-    <img height=175 alt="GitHub Stats" src="https://readme-stats-eight-lilac.vercel.app/api?username=Jorge-lopz&show_icons=true&count_private=true&hide_rank=true&theme=dark&bg_color=0d1117&border_color=262b32" />
-    &nbsp;&nbsp;&nbsp;
     <img height=175 alt="Most Used Languages" src="https://readme-stats-eight-lilac.vercel.app/api/top-langs/?username=Jorge-lopz&layout=compact&theme=dark&bg_color=0d1117&border_color=262b32" />&nbsp;&nbsp;
 </p>
 
