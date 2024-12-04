@@ -25,16 +25,14 @@
 **DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
 **TOOLS:** <br><br> [![Figma, Vercel, Cloudflare, Github](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
 
-<p>
-    <img height=175 alt="Most Used Languages" src="https://readme-stats-eight-lilac.vercel.app/api/top-langs/?username=Jorge-lopz&layout=compact&theme=dark&bg_color=0d1117&border_color=262b32" />&nbsp;&nbsp;
-</p>
-
 <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="100px" style="position:absolute"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="150px" style="position:absolute"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img height=160 alt="Most Used Languages" src="https://readme-stats-eight-lilac.vercel.app/api/top-langs/?username=Jorge-lopz&layout=compact&theme=dark&bg_color=0d1117&border_color=262b32" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="100px" style="position:absolute"/>
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="150px" style="position:absolute"/>
 </a>
 
 ![Snake animation](https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
