@@ -9,10 +9,11 @@
 
 </div>
 
-🔭 I’m currently studying **DAM** in **CES Juan Pablo II** <br>
+🧠 I’m currently studying **DAM** in **CES Juan Pablo II** <br>
 💻 **42 Madrid** Student since September 2024 <br>
-📝 I’m aiming to develop and contribute on original and interesting projects <br>
-🏆 I'm developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_blank" style="text-decoration: none; color: inherit;">**Helping Hands**</a>, give it a look! <br>
+🎯 I’m aiming to develop and contribute on original and interesting projects 👀 <br>
+🥳 Most proud of <a href="https://github.com/Jorge-lopz/Questory" target="_questory">**Questory**</a> 🚀 <br>
+🫶🏼 I'm developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_helpinghands">**Helping Hands**</a>, give it a look! <br>
 
 <div align="center">
     
