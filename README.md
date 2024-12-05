@@ -35,7 +35,9 @@
 <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/public/images/badges/2024/gif/2024-10.gif" alt="LeetCode October 24 Badge" width="150px" style="position:absolute"/>
 </a>
+<br><br>
 
+[![Wakatime](https://wakatime.com/badge/user/43299b95-37b5-4319-89dd-7bbef7fb1dcb.svg)](https://wakatime.com/@43299b95-37b5-4319-89dd-7bbef7fb1dcb)
 ![Snake animation](https://raw.githubusercontent.com/jorge-lopz/jorge-lopz/output/github-contribution-grid-snake-dark.svg)
 
 </div>
