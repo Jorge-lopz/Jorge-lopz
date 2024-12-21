@@ -21,10 +21,29 @@
 
 <br>
 
-**WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap, Angular](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular)](https://skillicons.dev) <br><br>
-**LANGUAGES:** <br><br> [![Python, Java, Kotlin, C](https://skillicons.dev/icons?i=python,java,kotlin,c)](https://skillicons.dev) <br><br>
-**DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
-**TOOLS:** <br><br> [![Figma, Vercel, Cloudflare, Github](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
+**WEB:** <div align=center>
+    <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width=48>&nbsp;
+    <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width=48>&nbsp;
+    <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width=52>
+</div>
+
+**LANGUAGES:** <div align=center>
+    <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/C.svg" width=50>
+</div>
+
+**DATABASES:** <div align=center>
+    <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width=50>
+</div>
+
+<br>
 
 <a href="https://leetcode.com/u/jorge-lopz/" target="_blank">
     <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" width="150px" style="position:absolute"/>
