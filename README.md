@@ -21,7 +21,7 @@
 
 <br>
 
-**WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap, Tailwind](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind)](https://skillicons.dev) <br><br>
+**WEB:** <br><br> [![HTML, CSS, JS, TS, Bootstrap, Angular](https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,angular)](https://skillicons.dev) <br><br>
 **LANGUAGES:** <br><br> [![Python, Java, Kotlin, C](https://skillicons.dev/icons?i=python,java,kotlin,c)](https://skillicons.dev) <br><br>
 **DATABASES:** <br><br> [![MySQL, PostgreSQL, MongoDB](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev) <br><br>
 **TOOLS:** <br><br> [![Figma, Vercel, Cloudflare, Github](https://skillicons.dev/icons?i=figma,vercel,cloudflare,github)](https://skillicons.dev) <br><br>
