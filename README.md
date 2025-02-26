@@ -9,11 +9,15 @@
 
 </div>
 
-🧠 I’m currently studying **DAM** in **CES Juan Pablo II** <br>
-💻 **42 Madrid** Student since September 2024 <br>
-🎯 I’m aiming to develop and contribute on original and interesting projects 👀 <br>
-🥳 Most proud of <a href="https://github.com/Jorge-lopz/Questory" target="_questory">**Questory**</a>, a 3D online game 🚀 <br>
-🫶🏼 I'm developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_helpinghands">**Helping Hands**</a>, give it a look! <br>
+Curious by nature, I took my first steps in the world of programming when I was 11 years old. Since then, I have stood out for my commitment and dedication, always seeking to exceed the expectations of the projects I am part of.
+
+I am determined to use my knowledge and abilities to contribute to the success of any project, providing innovative solutions while developing myself professionally and acquiring new skills.
+
+> 🧠 Currently studying **DAM** in **CES Juan Pablo II** <br>
+> 💻 **42 Madrid** Student since September 2024 <br>
+> 🎯 Aiming to develop and contribute on original and interesting projects 👀 <br>
+> 🥳 Most proud of <a href="https://github.com/Jorge-lopz/Questory" target="_questory">**Questory**</a>, a 3D online game 🚀 <br>
+> 🫶🏼 Developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_helpinghands">**Helping Hands**</a>, give it a look! <br>
 
 <div align="center">
     
