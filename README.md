@@ -9,7 +9,7 @@
 
 </div>
 
-> Curious by nature, I took my first steps in the world of programming when I was 🔟 years old. <br> Since then, I have stood out for my commitment and dedication, always seeking to exceed the expectations of the projects I am part of.
+> Curious by nature, I took my first steps in the world of programming when I was 🔟 years old. Since then, I have stood out for my commitment and dedication, always seeking to exceed the expectations of the projects I am part of.
 >
 > I am determined to use my knowledge and abilities to contribute to the success of any project, providing innovative solutions while developing myself professionally and acquiring new skills.
 
