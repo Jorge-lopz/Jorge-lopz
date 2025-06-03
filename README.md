@@ -11,7 +11,7 @@
 
 > Curious by nature, I took my first steps in the world of programming when I was 🔟 years old. Since then, I have stood out for my commitment and dedication, always seeking to exceed the expectations of the projects I am part of.
 >
-> I am determined to use my knowledge and abilities to contribute to the success of any project, providing innovative solutions while developing myself professionally and acquiring new skills.
+> I am committed to leveraging my skills and knowledge to drive the company’s growth and success by delivering innovative solutions, while continuously advancing my professional development and expanding my expertise.
 
  🧠 Currently studying **DAM** in **CES Juan Pablo II** <br> 
  💻 **42 Madrid** Student since September 2024 <br>
