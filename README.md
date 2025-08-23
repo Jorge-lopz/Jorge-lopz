@@ -13,8 +13,8 @@
 >
 > I am committed to leveraging my skills and knowledge to drive the company’s growth and success by delivering innovative solutions, while continuously advancing my professional development and expanding my expertise.
 
- 🧠 Currently studying **DAM** in **CES Juan Pablo II** <br> 
- 💻 **42 Madrid** Student since September 2024 <br>
+ 🧠 Currently studying **Computer Engineering** at **UOC (Universitat Oberta de Catalunya)** <br> 
+ 💻 Graduated with honors in **Multiplatform Application Development**, June 2025 <br>
  🎯 Aiming to develop and contribute on original and interesting projects 👀 <br>
  🥳 Most proud of <a href="https://github.com/Jorge-lopz/Questory" target="_questory">**Questory**</a>, a 3D online game 🚀 <br>
  🫶🏼 Developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_helpinghands">**Helping Hands**</a>, give it a look! <br>
@@ -30,8 +30,9 @@
     <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width=50>
     <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width=48>&nbsp;
     <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width=48>&nbsp;
-    <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width=50>
     <img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width=52>
+    <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width=50>
+    <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" width=52>
 </div>
 
 **LANGUAGES:** <div align=center>
@@ -39,6 +40,8 @@
     <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width=50>
     <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width=50>
     <img src="https://icon.icepanel.io/Technology/svg/C.svg" width=50>
+    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width=50>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" width=48>
 </div>
 
 **DATABASES:** <div align=center>
