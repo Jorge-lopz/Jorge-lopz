@@ -4,8 +4,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jorge-lopez-puebla) &nbsp;
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:lopezpueblajorge@gmail.com)
+[![Website](https://www.shieldcn.dev/badge/Website-jorge--lopz.is--a.dev-181717.svg?logo=ri%3ALuLink&variant=branded&size=sm)](https://jorge-lopz.is-a.dev)
 
 </div>
 
