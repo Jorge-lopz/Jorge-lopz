@@ -19,35 +19,6 @@
  🫶🏼 Developing <a href="https://github.com/Jorge-lopz/Helping-Hands" target="_helpinghands">**Helping Hands**</a>, give it a look! <br>
 
 <div align="center">
-    
-## · TECH STACK ·
-
-<br>
-
-**WEB:** <div align=center>
-    <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" width=48>&nbsp;
-    <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" width=48>&nbsp;
-    <img src="https://icon.icepanel.io/Technology/svg/Angular.svg" width=52>
-    <img src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" width=50>
-    <img src="https://mudblazor.com/_content/MudBlazor.Docs/images/logo.png" width=52>
-</div>
-
-**LANGUAGES:** <div align=center>
-    <img src="https://icon.icepanel.io/Technology/svg/Java.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/C.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/C%23-%28CSharp%29.svg" width=50>
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" width=48>
-</div>
-
-**DATABASES:** <div align=center>
-    <img src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" width=50>
-    <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" width=50>
-</div>
 
 <br>
 
